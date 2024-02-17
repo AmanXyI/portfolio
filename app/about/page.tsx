@@ -7,7 +7,7 @@ const posts = [
       "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Accusamus magnam, minus, officia vel asperiores provident quam nisi",
     image: "/spotify.webp",
     repo_link: "/",
-    live_site: "",
+    live_site: "/",
   },
   {
     header:

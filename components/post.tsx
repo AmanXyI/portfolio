@@ -99,6 +99,7 @@ const Post: React.FC<PostProps> = ({
                   <Heart size={20} />
                 )}
               </div>
+              {/* @ts-ignore */}
               {like ? likes + 1 : likes}
             </div>
             <div className="flex gap-2 text-sm  hover:text-blue-500 cursor-pointer transition-all">
